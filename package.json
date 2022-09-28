@@ -1,10 +1,8 @@
 {
   "name": "@abbinizar/card-lib",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/abbinizar"
-  },
-  "version": "0.1.0",
+  "version": "0.1.9",
   "description": "A simple card library",
+  "repository": "https://github.com/abbinizar/card-lib",
   "scripts": {
     "rollup": "rollup -c",
     "test": "jest",
