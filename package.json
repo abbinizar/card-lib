@@ -1,6 +1,6 @@
 {
-  "name": "@abbinizar/card-lib",
-  "version": "0.1.9",
+  "name": "card-lib-nzr",
+  "version": "1.1.11",
   "description": "A simple card library",
   "repository": "https://github.com/abbinizar/card-lib",
   "scripts": {
@@ -10,7 +10,7 @@
     "build-storybook": "build-storybook"
   },
   "author": "abbinizar",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@babel/core": "^7.16.0",
     "@babel/preset-env": "^7.16.4",
