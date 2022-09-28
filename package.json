@@ -1,6 +1,6 @@
 {
   "name": "card-lib-nzr",
-  "version": "1.1.11",
+  "version": "1.1.12",
   "description": "A simple card library",
   "repository": "https://github.com/abbinizar/card-lib",
   "scripts": {
@@ -42,6 +42,7 @@
     "rollup-plugin-dts": "^4.0.1",
     "rollup-plugin-postcss": "^4.0.1",
     "sass": "^1.43.5",
+    "postcss": "^8.4.16",
     "sass-loader": "^12.3.0",
     "style-loader": "^3.3.1",
     "typescript": "^4.7.4"
